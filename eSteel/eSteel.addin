@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 29.0-->
+  <ClassId>{021429CC-1381-4F02-B75D-7CACDB384211}</ClassId>
+  <ClientId>{021429CC-1381-4F02-B75D-7CACDB384211}</ClientId>
+  <DisplayName>eSteel</DisplayName>
+  <Description>eSteel</Description>
+  <Assembly>eSteel.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>28..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
